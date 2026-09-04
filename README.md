@@ -28,7 +28,7 @@ https://youtu.be/U9tBx3X4A-A?si=z12c4-labsrjdy3f
 | Backend    | Node.js (ESM), Express                                       |
 | Database   | PostgreSQL (with `pgcrypto`, `pg_trgm` extensions)           |
 | Auth       | JWT (cookie-based sessions), bcrypt                          |
-| AI / LLM   | Groq API (Llama 3.3 70B by default), function/tool calling   |
+| AI / LLM   | Groq API (openai/gpt-oss-120b), function/tool calling   |
 | Payments   | Razorpay (test mode)                                         |
 | Validation | Zod                                                          |
 
