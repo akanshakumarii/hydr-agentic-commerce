@@ -18,7 +18,7 @@ The project also demonstrates **agent-to-agent commerce**: a public product feed
 - **Server-enforced guardrails** — Hard ceilings (e.g. max quantity per add, max order value) enforced in code, not just requested via the LLM prompt, so the assistant can't be talked into bypassing them.
 
 ## A video of the working project 
-
+https://youtu.be/U9tBx3X4A-A?si=z12c4-labsrjdy3f
 
 ## Tech Stack
 
